@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14374" started-at="2020-02-11T10:19:29Z" finished-at="2020-02-11T10:19:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14374" started-at="2020-02-11T10:19:29Z" finished-at="2020-02-11T10:19:43Z">
+      <class name="MyFirstMavenProjectDemo.MyFirstMavenProjectDemo.Test_QAClick">
+        <test-method status="PASS" signature="PreCondtion()[pri:0, instance:MyFirstMavenProjectDemo.MyFirstMavenProjectDemo.Test_QAClick@239963d8]" name="PreCondtion" is-config="true" duration-ms="12895" started-at="2020-02-11T15:49:29Z" finished-at="2020-02-11T15:49:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreCondtion -->
+        <test-method status="PASS" signature="test()[pri:1, instance:MyFirstMavenProjectDemo.MyFirstMavenProjectDemo.Test_QAClick@239963d8]" name="test" duration-ms="1430" started-at="2020-02-11T15:49:42Z" finished-at="2020-02-11T15:49:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="Test()[pri:2, instance:MyFirstMavenProjectDemo.MyFirstMavenProjectDemo.Test_QAClick@239963d8]" name="Test" duration-ms="13" started-at="2020-02-11T15:49:43Z" finished-at="2020-02-11T15:49:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- MyFirstMavenProjectDemo.MyFirstMavenProjectDemo.Test_QAClick -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
